@@ -1,0 +1,207 @@
+
+.main{
+    width: 400px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 100px auto;
+    box-sizing: border-box;
+}
+
+/* Login Page */
+
+
+.heading-logo{
+    text-align: center;
+    font-size: 40px;
+    font-family:fantasy;
+    font-variant:normal;
+    margin-bottom: 10px;;
+
+}
+.welcome-text{
+    text-align: center;
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight:600;
+    margin-bottom: 38px;
+}
+.input{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border: 2px solid rgba(189, 189, 189, 0.458); /* Specify the border style for all sides */
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 22px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;   
+}
+.showpassword{
+    position: absolute;
+    top: 55.5%;
+    left:70%;
+    color:rgba(128, 128, 128, 0.489);
+    font-size: small;
+}
+.btn{
+    position:relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 50px;
+    color: white;
+    border-radius: 7px;
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 50px;
+    width: 300px;
+    box-sizing: border-box;
+
+
+}
+.signUpInfo{
+    text-align: center;
+    color: rgb(140, 140, 140);
+    line-height: 1.2px;
+    font-size: medium;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(140, 140, 140);
+    font-size: small;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+a {
+    color: black;
+}
+
+
+
+/* Google card */
+
+
+/* .header-img{
+    width: 100%;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    object-fit: cover;
+    margin-bottom: -20px;
+    
+}
+.content{
+    padding: 18px;
+    box-sizing: border-box;
+}
+.tag{
+    margin-top: 23px;
+    margin-bottom: 14px;
+    color: rgba(90, 90, 90, 0.838);
+    font-size: 12px;
+    font-weight:600;
+
+}
+.lock-icon {
+    margin-right: 10px;
+    padding-top: -50px;
+    display: inline-block;
+    border: 1px solid rgba(0, 0, 0, 0.555);
+    width: 20px;
+    height: 10px; 
+    text-align: center;
+    font-size:xx-large;
+    color: rgb(255, 255, 255);
+    border-top: 1px solid rgba(0, 0, 0, 0.555);
+    border-top-width: 5px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom: 1px solde grey;
+    border-bottom-width: 20px;
+
+
+}
+
+.head{
+    font-size: 22px;
+    margin-bottom: -8px;
+}
+.matter{
+    line-height: 1.5;
+    color: grey;
+}
+.btn{
+    width: 137px;
+    height: 40px;
+    background-color: white;
+    border-radius: 7px;
+    padding: 10px;
+    margin-bottom: 12px;
+    margin-top: 11px;
+    color: rgba(0, 64, 255, 0.753);
+    font-weight: 600;
+    font-size: 15px;
+    border-color: rgba(171, 171, 171, 0.629);
+    
+} */
+
+
+/* Profile Card */
+
+/* .profile-heading{
+    padding-left: 20px;
+    color: black;
+}
+.content{
+    padding-left :20px;
+    color: grey;
+}
+.box-img  {
+    width: 55px; 
+    height: 55px; 
+    object-fit:cover; 
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-top: 10px;  
+    border-style:hidden;
+}
+.foot{
+    text-align: center left;
+    padding: 20px;
+    border-top: 1.5px solid rgb(208, 207, 207);
+    color: rgb(90, 137, 203);
+    font-family: sans-serif;
+   
+}*/
+
+
+
+/* Simple Card */
+
+/* .heading{
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.btn{
+    margin-top: 10px;
+    padding: 7px;
+    background-color: white;  
+    border-radius: 25px;
+    width: 150px;  
+    box-sizing: border-box;
+    border: 0px;
+    color: black;
+    
+}
+p{
+    
+    font-size: x-small;
+} */

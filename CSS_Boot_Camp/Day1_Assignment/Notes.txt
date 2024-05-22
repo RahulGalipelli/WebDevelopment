@@ -1,0 +1,17 @@
+Unsplash website for images without copyright 
+pexels website for videos
+
+<video src="beach.mp4" height= "360" controls loop autoplay muted></video>
+<audio src = "audio.mp3" controls></audio>
+
+<a></a> ---> anchor tag;
+
+target = "_blank"
+
+<a href="tel:+91630549345"> Call me </a>
+<a href="mailto:rahulgalipelli1603@gmail.com"> Mail Us </a>
+<a href="https://wa.me/+916304051822/?text = this is a dummy msg" target = "_blank">WhatsappUs</a>
+
+
+Embed tags
+
